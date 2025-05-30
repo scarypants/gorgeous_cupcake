@@ -1,6 +1,6 @@
 <?php
 	//database connection details
-	$host = 'localhost';
+	$host = 'hymysqldb.cfgomb96ri9j.us-east-1.rds.amazonaws.com';
 	$user = 'root';
 	$password = '';
 	$database = 'gorgeous_cupcakes';
