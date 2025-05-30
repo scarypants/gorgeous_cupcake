@@ -2,7 +2,7 @@
 	//database connection details
 	$host = 'hymysqldb.cfgomb96ri9j.us-east-1.rds.amazonaws.com';
 	$user = 'root';
-	$password = '';
+	$password = 'Password123';
 	$database = 'gorgeous_cupcakes';
 
 	//connect to database with a try/catch statement
